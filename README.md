@@ -1,8 +1,7 @@
 # korona.kans.io
 
-> Corona virus information for people in Finland [korona.kans.io](https://korona.kans.io/)
+> Corona virus information for Estonia. Work in progress. 
 
-Check out live version [here](https://korona.kans.io/)
 
 ## Development
 
